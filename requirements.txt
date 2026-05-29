@@ -1,0 +1,7 @@
+# The api framework
+fastapi==0.111.0
+
+# To run the server
+uvicorn[standard]==0.27.0
+
+# 
